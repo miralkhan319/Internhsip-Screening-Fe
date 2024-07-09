@@ -1,0 +1,52 @@
+{
+  "name": "internship-screening",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^2.0.18",
+    "@mui/icons-material": "^5.14.16",
+    "@mui/joy": "^5.0.0-beta.24",
+    "@mui/lab": "^5.0.0-alpha.167",
+    "@mui/material": "^5.14.17",
+    "@mui/x-data-grid": "^6.18.2",
+    "@nextui-org/react": "^2.2.9",
+    "@nextui-org/system": "^2.0.15",
+    "@nextui-org/theme": "^2.1.17",
+    "axios": "^1.5.1",
+    "bootstrap-sweetalert": "^1.0.1",
+    "framer-motion": "^10.18.0",
+    "html-react-parser": "^5.1.9",
+    "next": "13.5.4",
+    "next-auth": "^4.24.7",
+    "qs": "^6.11.2",
+    "react": "^18",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-dom": "^18",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-feather": "^2.0.10",
+    "react-icons": "^4.11.0",
+    "react-native-fs": "^2.20.0",
+    "react-responsive-modal": "^6.4.2",
+    "react-toastify": "^9.1.3",
+    "sweetalert2": "^11.10.1",
+    "swr": "^2.2.4",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.2/xlsx-0.19.2.tgz"
+  },
+  "devDependencies": {
+    "@types/node": "20.9.0",
+    "@types/react": "18.2.37",
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "5.2.2"
+  }
+}
